@@ -1,0 +1,221 @@
+/* 
+ 此文件夹为全局css 定义前请查重 以防覆盖
+*/
+  .flLeft{
+    float: left;
+  }
+  .flRight{
+    float: right;
+  }
+  .ovHidden{
+    overflow: hidden;
+  }
+  .font12{
+    font-size: 12px;
+  }
+  .fontWeight400{
+    font-weight: 400px;
+  }
+  .fontWeight600{
+    font-weight: 600px;
+  }
+  .wid100{
+    width: 100% !important;
+  }
+  .wid180{
+    width: 180px;
+  }
+  .height100{
+    height: 100%;
+  }
+  .pad20_20_0{
+    padding: 20px 20px 0;
+  }
+  .pad10{
+    padding:10px
+  }
+  .pad20{
+    padding:20px
+  }
+  .pad10_0{
+    padding:10px 0
+  }
+  .padding_left10{
+    padding-left:10px
+  }
+  .padding_left5{
+    padding-left:5px
+  }
+  .padding_right20{
+    padding-right:20px
+  }
+  .padding_Bt5{
+    padding-bottom:5px
+  }
+  .colorRed{
+    color: red;
+  }
+  .colorBlack{
+    color: black;
+  }
+  .color014AFF{
+    color: #014AFF !important;
+    opacity: 1 !important;
+  }
+  .magin_top20{
+    margin-top:20px
+  }
+  .magin_top10{
+    margin-top:10px
+  }
+  .magin_top40{
+    margin-top:40px
+  }
+  .magin_left20{
+    margin-left:20px
+  }
+  .mg_right10{
+    margin-right:10px
+  }
+  .paddingB5{
+    padding-bottom:5px
+  }
+  .magin_bottom10{
+    margin-bottom:10px
+  }
+  .fontSize12{
+    font-size: 12px;
+  }
+  .fontSize20{
+    font-size: 20px;
+  }
+  .paddig_b10{
+    padding-bottom: 10px;
+  }
+  .paddig_b5{
+    padding-bottom: 5px;
+  }
+  .paddig_T10{
+    padding-top: 10px;
+  }
+  .border_radius4{
+    border-radius: 4px;
+  }
+  .ovDian{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical
+  }
+  .ant-modal-header{
+    /* background: #F5F6FA !important; */
+  }
+  .ant-modal{
+    top:80px  !important;
+  }
+  .ant-modal-footer{
+    /* background: #EDEDF2 !important; */
+  }
+  .bymePop .ant-popover-inner-content{
+    background: #353745 !important;
+    border-radius: 4px;
+  }
+  .bymePop .ant-popover-arrow{
+    border-color:  #353745 !important;
+  }
+  .bymePop .ant-btn-sm{
+    height:32px !important;
+    padding:0 10px !important;
+  }
+  .lineHeight30{
+    height: 30px;
+    line-height: 30px;
+  }
+  .popTitle{
+    width:200px;
+    color:#fff;
+  }
+  .cursorP{
+    cursor: pointer;
+  }
+  .popTip{
+    color:#A7ABBD;
+    font-size:13px;
+    padding-top:5px
+  }
+  /* .ant-popover-message-title{
+    padding-left:0
+  } */
+  .ant-popover-buttons button:first-child{
+    color:#0063E1
+  }
+  .ant-form-item-label > label,.ant-input-suffix{
+    color:#6B6F81 !important;
+  }
+  pre {
+    white-space: pre-wrap;       /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+    } 
+    .ovDian3{
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical
+    }
+  /* 超过部分点点点 */
+  .spot{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .text_alignC{
+    text-align: center;
+  }
+  .text_alignR{
+    text-align: right;
+  }
+  .ant-table-thead > tr > th, .ant-table-tbody > tr > td{
+    padding: 10px 16px;
+  }
+  .miniTable .ant-table-thead > tr > th, .ant-table-tbody > tr > td{
+    padding: 10px 16px;
+  }
+  .blodStyle{
+    font-weight: bold;
+  }
+  .visHid{
+    visibility: hidden;
+  }
+  .ant-steps-item-title{
+    font-size: 14px !important;
+  }
+  .leftSlider .ant-menu-inline-collapsed > .ant-menu-item,
+.ant-menu-inline-collapsed
+  > .ant-menu-item-group
+  > .ant-menu-item-group-list
+  > .ant-menu-item,
+.ant-menu-inline-collapsed
+  > .ant-menu-item-group
+  > .ant-menu-item-group-list
+  > .ant-menu-submenu
+  > .ant-menu-submenu-title,
+.ant-menu-inline-collapsed > .ant-menu-submenu > .ant-menu-submenu-title {
+  padding: 0 16px !important;
+}
+.ant-form-inline .ant-form-item-with-help{
+  margin-bottom: 0
+}
+.ant-menu-inline > .ant-menu-item{
+  margin-top: 0 !important;
+}
+[v-cloak]{
+  display: none !important;
+}
+.ant-table-thead > tr > th{
+  background: #F8F8FC !important;
+}
